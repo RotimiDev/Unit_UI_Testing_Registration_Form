@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ASB World Wide</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="phone_number_work">Phone</string>
+    <string name="sex">Sex</string>
+    <string name="phone_number">Phone</string>
+    <string name="email_">Email:</string>
+    <string name="name">Name:</string>
+    <string name="avatar">Avatar</string>
+</resources>
